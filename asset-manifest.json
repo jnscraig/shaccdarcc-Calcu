@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shaccdarcc-Calcu/static/css/main.f6bfba89.css",
+    "main.js": "/shaccdarcc-Calcu/static/js/main.c8e0ee15.js",
+    "index.html": "/shaccdarcc-Calcu/index.html",
+    "main.f6bfba89.css.map": "/shaccdarcc-Calcu/static/css/main.f6bfba89.css.map",
+    "main.c8e0ee15.js.map": "/shaccdarcc-Calcu/static/js/main.c8e0ee15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6bfba89.css",
+    "static/js/main.c8e0ee15.js"
+  ]
+}
